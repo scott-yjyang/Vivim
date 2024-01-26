@@ -1,13 +1,13 @@
 # Vivim
 Vivim: a Video Vision Mamba for Medical Video Object Segmentation 
 
-[arXiv](https://arxiv.org/abs/2401.14168)
+[[arXiv](https://arxiv.org/abs/2401.14168)]
 
 Here is a project for the quick taste of Mamba😄
 
 ## A Quick Overview 
 
-<img width="800" height="400" src="https://github.com/scott-yjyang/Vivim/blob/main/assets/framework.png">
+<img width="600" height="400" src="https://github.com/scott-yjyang/Vivim/blob/main/assets/framework.png">
 
 ## News
 - 24-01-25. The paper has been released on arXiv.
@@ -20,7 +20,6 @@ Here is a project for the quick taste of Mamba😄
 - [ ] Release training scripts
 - [ ] Release evaluation
 - [ ] Experiments on other video object segmentation datasets.
-- [ ] Upload the checkpoints
 - [ ] configuration
 
 
