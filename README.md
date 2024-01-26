@@ -7,7 +7,7 @@ Here is a project for the quick taste of Mamba😄
 
 ## A Quick Overview 
 
-<img width="600" height="400" src="https://github.com/scott-yjyang/Vivim/blob/main/assets/framework.pdf">
+<img width="600" height="400" src="https://github.com/scott-yjyang/Vivim/blob/main/assets/framework.png">
 
 ## News
 - 24-01-25. The paper has been released on arXiv.
