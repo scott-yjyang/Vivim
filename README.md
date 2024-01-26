@@ -33,7 +33,7 @@ Welcome to contribute to Vivim. Any technique that can improve the performance o
 Code is based on [bowang-lab/U-Mamba](https://github.com/bowang-lab/U-Mamba), [hustvl/Vim](https://github.com/hustvl/Vim), [ge-xing/SegMamba](https://github.com/ge-xing/SegMamba)
 
 ## Cite
-If you find this code useful, please cite
+If you find it useful, please cite
 ~~~
 @article{yang2024vivim,
   title={Vivim: a Video Vision Mamba for Medical Video Object Segmentation },
