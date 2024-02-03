@@ -27,21 +27,17 @@ We are exploring a better model. Please stay tuned for our work.
 - [ ] Experiments on other video object segmentation datasets.
 - [ ] configuration
 
-'''
-## Be a part of Vivim !
 
-Welcome to contribute to Vivim. Any technique that can improve the performance or speed up the algorithm is appreciated🙏. I'm glad to list the contributors as my co-authors🤗.
-'''
 
 ## Thanks
 
-Code is based on [bowang-lab/U-Mamba](https://github.com/bowang-lab/U-Mamba), [hustvl/Vim](https://github.com/hustvl/Vim), [ge-xing/SegMamba](https://github.com/ge-xing/SegMamba)
+Code is based on [ge-xing/SegMamba](https://github.com/ge-xing/SegMamba), [hustvl/Vim](https://github.com/hustvl/Vim), [bowang-lab/U-Mamba](https://github.com/bowang-lab/U-Mamba).
 
 ## Cite
 If you find it useful, please cite
 ~~~
 @article{yang2024vivim,
-  title={Vivim: a Video Vision Mamba for Medical Video Object Segmentation },
+  title={Vivim: a Video Vision Mamba for Medical Video Object Segmentation},
   author={Yang, Yijun and Xing, Zhaohu and Zhu, Lei},
   journal={arXiv preprint arXiv:2401.14168},
   year={2024}
