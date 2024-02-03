@@ -4,7 +4,8 @@ Vivim: a Video Vision Mamba for Medical Video Object Segmentation
 [[arXiv](https://arxiv.org/abs/2401.14168)]
 
 Here is a project for the quick taste of Mamba😄. 
-We are improving our model for better performance. Please stay tuned for our work.
+
+We are exploring a better model. Please stay tuned for our work.
 
 ## News
 - 24-01-25. The paper has been released on arXiv.
