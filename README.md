@@ -7,7 +7,7 @@ Here is a project for Mamba in videos😄.
 Please stay tuned for our work.
 
 ## News
-- 24-02-08. ❗❗Important update on Method and Experiments. Please refer to [[arXiv](https://arxiv.org/abs/2401.14168)] for details.
+- 24-02-08. ❗❗Important update on Method and Experiments. Please refer to [arXiv](https://arxiv.org/abs/2401.14168) for details.
 - 24-01-26. This project is still quickly updating 🌝. Check TODO list to see what will be released next.
 - 24-01-25. The paper has been released on arXiv.
 
@@ -15,7 +15,7 @@ Please stay tuned for our work.
 
 ## A Quick Overview 
 
-<img width="600" height="400" src="https://github.com/scott-yjyang/Vivim/blob/main/assets/framework.png">
+<img width="600" height="400" src="https://github.com/scott-yjyang/Vivim/blob/main/assets/framework1.png">
 
 
 
