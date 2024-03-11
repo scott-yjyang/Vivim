@@ -18,6 +18,38 @@ Vivim: a Video Vision Mamba for Medical Video Object Segmentation
 <img width="600" height="400" src="https://github.com/scott-yjyang/Vivim/blob/main/assets/framework1.png">
 
 
+## Environment Setup
+### Clone this repository and navigate to the root directory of the project.
+
+```bash
+git clone https://github.com/scott-yjyang/Vivim.git
+
+cd Vivim
+```
+
+### Install basic package
+
+```bash
+conda env create -f environment.yml
+```
+
+
+### Install casual-conv1d
+
+```bash
+cd causal-conv1d
+
+python setup.py install
+```
+
+### Install mamba
+
+```bash
+cd mamba
+
+python setup.py install
+```
+
 
 ### TODO LIST
 
