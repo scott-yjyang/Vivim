@@ -56,6 +56,7 @@ python setup.py install
 - [x] Release Model
 - [x] Release training scripts
 - [x] Release evaluation
+- [ ] Release Ultrasound dataset
 - [ ] Experiments on other video object segmentation datasets.
 - [ ] configuration
 
@@ -66,7 +67,7 @@ python setup.py install
 Code is based on [ge-xing/SegMamba](https://github.com/ge-xing/SegMamba), [hustvl/Vim](https://github.com/hustvl/Vim), [bowang-lab/U-Mamba](https://github.com/bowang-lab/U-Mamba).
 
 ## Cite
-If you find it useful, please cite
+If you find it useful, please cite and star
 ~~~
 @article{yang2024vivim,
   title={Vivim: a Video Vision Mamba for Medical Video Object Segmentation},
