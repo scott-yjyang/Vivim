@@ -176,7 +176,7 @@ class SalObjDataset(data.Dataset):
                     # pick_idx = idx + ii if idx - ii < 0 else idx - ii
                     pick_idx = idx+ii
                     if pick_idx >= len(frms):
-                        pick_idx = - 1
+                        pick_idx = len(frms) - 1
                     if pick_idx < 0:
                         pick_idx = 0
                     clip.append(os.path.join(vid_path, frms[pick_idx]))
@@ -295,7 +295,7 @@ class SalObjTestDataset(data.Dataset):
                     # pick_idx = idx + ii if idx - ii < 0 else idx - ii
                     pick_idx = idx+ii
                     if pick_idx >= len(frms):
-                        pick_idx = - 1
+                        pick_idx = len(frms) - 1
                     if pick_idx < 0:
                         pick_idx = 0
                     clip.append(os.path.join(vid_path, frms[pick_idx]))
