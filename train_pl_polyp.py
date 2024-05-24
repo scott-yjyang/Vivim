@@ -210,20 +210,12 @@ class CoolSystem(pl.LightningModule):
             # print(sum(dice_l) / len(dice_l))
 
         # mean
-        # dice = sum(dice_lst) / len(dice_lst)
-        # acc = sum(specificity_lst) / len(specificity_lst)
-        # precision = sum(precision_lst) / len(precision_lst)
-        # recall = sum(recall_lst) / len(recall_lst)
-        # f_measure = sum(f_measure_lst) / len(f_measure_lst)
-        # jac = sum(jaccard_lst) / len(jaccard_lst)
-
-        #max
-        dice = max(dice_lst)
-        acc = max(specificity_lst)
-        precision = max(precision_lst)
-        recall = max(recall_lst)
-        f_measure = max(f_measure_lst)
-        jac = max(jaccard_lst)
+        dice = sum(dice_lst) / len(dice_lst)
+        acc = sum(specificity_lst) / len(specificity_lst)
+        precision = sum(precision_lst) / len(precision_lst)
+        recall = sum(recall_lst) / len(recall_lst)
+        f_measure = sum(f_measure_lst) / len(f_measure_lst)
+        jac = sum(jaccard_lst) / len(jaccard_lst)
 
         sm = self.sm.get_results()['Smeasure']
         em = self.em.get_results()['meanEm']
