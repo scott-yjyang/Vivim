@@ -1,11 +1,12 @@
 # Vivim
-Vivim: a Video Vision Mamba for Medical Video Object Segmentation 
+Vivim: a Video Vision Mamba for Medical Video Segmentation 
 
 [[arXiv](https://arxiv.org/abs/2401.14168)]
 
 
 
 ## News
+- 24-08-01. Upload several example cases of VTUS dataset
 - 24-03-11. ❗❗Update on Code. Welcome to taste.😄
 - 24-02-08. Update on Method and Experiments.
 - 24-01-26. This project is still quickly updating 🌝. Check TODO list to see what will be released next.
