@@ -1,11 +1,12 @@
 # Vivim
-Vivim: a Video Vision Mamba for Medical Video Segmentation 
+[IEEE TCSVT] Vivim: a Video Vision Mamba for Medical Video Segmentation 
 
-[[arXiv](https://arxiv.org/abs/2401.14168)]
+[[arXiv](https://arxiv.org/abs/2401.14168)] [[Dataset](https://drive.google.com/file/d/1mRkvqcaic-0W8WnDRLUWRuzrcp7f8dWc/view?usp=sharing)]
 
 
 
 ## News
+- 25-04-21. Vivim has been accepted by TCSVT. Welcome to try our dataset!
 - 24-08-01. Upload several example cases of VTUS dataset
 - 24-03-11. ❗❗Update on Code. Welcome to taste.😄
 - 24-02-08. Update on Method and Experiments.
@@ -57,7 +58,7 @@ python setup.py install
 - [x] Release Model
 - [x] Release training scripts
 - [x] Release evaluation
-- [ ] Release Ultrasound dataset
+- [x] Release Ultrasound dataset
 - [ ] Experiments on other video object segmentation datasets.
 - [ ] configuration
 
